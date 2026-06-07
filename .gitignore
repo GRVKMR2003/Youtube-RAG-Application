@@ -1,0 +1,35 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+backend/.venv/
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases & local stores
+chroma_db/
+chroma_db_test/
+*.sqlite3
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Local configuration / secrets
+.env
+.env.local
+.env.*.local
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
