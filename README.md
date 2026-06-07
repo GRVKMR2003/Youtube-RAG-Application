@@ -4,7 +4,7 @@ VideoMind is a local, AI-powered YouTube RAG (Retrieval-Augmented Generation) ap
 
 ## 📺 Demo
 
-![VideoMind Demo](demo.webp)
+![VideoMind Walkthrough](walkthrough.webp)
 
 ## 🌟 Features
 
