@@ -2,9 +2,7 @@
 
 VideoMind is a local, AI-powered YouTube RAG (Retrieval-Augmented Generation) application built on top of FastAPI and React. It allows users to convert YouTube videos into searchable local knowledge bases.
 
-## 📺 Demo
 
-![VideoMind Walkthrough](walkthrough.webp)
 
 ## 🌟 Features
 
